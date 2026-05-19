@@ -20,3 +20,14 @@ main {
 p {
     text-align: justify;
 }
+h1 {
+    color: rgb(255, 91, 91);
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+    color: #000000;
+    background-color: thistle;
+}
